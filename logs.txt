@@ -1,0 +1,51 @@
+Bienvenido al juego de Blackjack
+Usted tiene: $100  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+ 
+20Usted tiene: $80  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+ 
+0
+Sales con $ 80 Bienvenido al juego de Blackjack
+Usted tiene: $100  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+ 
+20Usted tiene: $120  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+ 
+0
+Sales con $ 120 Bienvenido al juego de Blackjack
+Usted tiene: $100  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+ 
+20Usted tiene: $80  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+ 
+20Usted tiene: $60  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+ 
+20Usted tiene: $40  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+ 
+20Usted tiene: $60  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+ 
+30Usted tiene: $30  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+ 
+0
+Sales con $ 30 Bienvenido al juego de Blackjack
+Usted tiene: $100  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+ 
+30Usted tiene: $70  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+ 
+20Usted tiene: $50  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+ 
+20Usted tiene: $70  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+ 
+0
+Sales con $ 70 Bienvenido al juego de Blackjack
+Usted tiene: $100  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+ 
+20Usted tiene: $80  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+ 
+30Usted tiene: $50  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+ 
+10Usted tiene: $40  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+ 
+10Usted tiene: $30  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+ 
+10Usted tiene: $40  para realizar apuestasCuanto dinero desea apostar?(Ingrese 0 para finalizar)
+ 
+0
+Sales con $ 40 
